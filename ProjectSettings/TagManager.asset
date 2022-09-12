@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Gameplay
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BehindGameField
+    uniqueID: 3852498811
+    locked: 0
+  - name: GameField
+    uniqueID: 4109479891
+    locked: 0
+  - name: AheadGameField
+    uniqueID: 2404127787
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
